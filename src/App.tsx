@@ -7,7 +7,7 @@ function App() {
       <div className="flex flex-col gap-10 items-center">
         <div className="flex flex-row justify-between gap-10 lg:gap-50">
           <div>
-            <p>910-690-1931</p>
+            <p>Email me!</p>
             <p>calebdfree@gmail.com</p>
           </div>
           <div className="flex flex-col items-center">
